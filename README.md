@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+##### I'm Roberto an Artificial Intelligence developer and this is my personal blog 💻
 <!--
 **robsch23/robsch23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
