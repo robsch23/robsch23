@@ -1,6 +1,6 @@
 # Hi 👋 My Name is Roberto Schiavelli
 
-### 💻 *Full-Stack developer* & *Data Scientist* 💻
+### 💻 *Full-Stack developer* & *Data Scientist*
 
 <img src="https://img.icons8.com/color/256/place-marker.png" width="20" height="20" alt="Location" title="Location"/> I'm based in **Corigliano-Rossano**
 
