@@ -17,5 +17,5 @@
 
 <hr>
 
-##### A bit of my little portfolio...
+##### A bit of my portfolio...
 
