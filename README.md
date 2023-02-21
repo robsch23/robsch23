@@ -8,6 +8,10 @@
 
 <img src="https://img.icons8.com/external-flat-juicy-fish/256/external-work-digital-nomad-flat-flat-juicy-fish-5.png" width="20" height="20" alt="Work" title="Work"/> **I work at LiveTech s.r.l.**
 
+<br>
+
+> Follow me on **GitHub** <img src="https://img.icons8.com/fluency/256/add-user-male.png" width="20" height="20" alt="Follow me" title="Follow me"/>
+
 <hr>
 
 ### My Skills:
