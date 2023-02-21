@@ -4,7 +4,7 @@
 
 <img src="https://img.icons8.com/color/256/place-marker.png" width="20" height="20" alt="Location" title="Location"/> I'm based in **Corigliano-Rossano**
 
-<img src="https://img.icons8.com/external-flat-juicy-fish/256/external-work-digital-nomad-flat-flat-juicy-fish-5.png" width="20" height="20" alt="Work" title="Work"/> **I work at LiveTech s.r.l.**
+<img src="https://img.icons8.com/external-flat-juicy-fish/256/external-work-digital-nomad-flat-flat-juicy-fish-5.png" width="20" height="20" alt="Work" title="Work"/> I work at **LiveTech s.r.l.**
 
 <br>
 
